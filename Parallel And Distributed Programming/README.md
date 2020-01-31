@@ -1,3 +1,5 @@
+# Taught by Prof. Subhasis
+
 ## Books
 1. Professional Cuda C programming.
 
