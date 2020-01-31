@@ -1,0 +1,7 @@
+https://sites.google.com/site/cudaprogramming1/
+
+https://www.tutorialspoint.com/parallel_algorithm/parallel_random_access_machines.html
+
+https://nptel.ac.in/courses/106/102/106102163/  ---yogish sabhrawal OpenMp course nptel
+https://nptel.ac.in/courses/106/102/106102114/  --- PRAM etc models -- nice course. 
+https://cvw.cac.cornell.edu/gpu/thread_div ---gpgpu programming model cornell
